@@ -12,4 +12,4 @@ For this assignment, we were to use an external style sheet that did the followi
 8. Use at least one CSS combinator.
 
 ## Lighthouse Report ##
-![picture alt](images/LighthouseScreenshot.png "Overall Scores")
+![picture alt](images/LHScreenshot.png "Overall Scores")
