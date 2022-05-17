@@ -59,6 +59,11 @@ main {
     padding:20px;
 }
 
+h1 {
+    
+    border-left:15px #f00 solid;
+    padding-left: 5px;
+}
 
 h2, h3 {
     background-color:#000;
